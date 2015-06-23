@@ -1,0 +1,30 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.wojtek.w_painter.MainActivity" >
+
+    <item
+        android:id="@+id/action_new"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/startActivity_menu_New"/>
+    
+     <item
+        android:id="@+id/action_save"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/startActivity_menu_Save"/>
+     
+     <item
+        android:id="@+id/action_open"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/startActivity_menu_OpenGalery"/>
+     
+     <item
+        android:id="@+id/action_exit"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/startActivity_menu_Exit"/>
+     
+     
+</menu>

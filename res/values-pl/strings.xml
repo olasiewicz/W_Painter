@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">W_Painter</string>
+    <string name="action_settings">Settings</string>
+    <string name="WelcomeName">W. Olasiewicz</string>
+    <string name="startActivity_new">Nowy</string>
+    <string name="startActivity_erase">Gumka</string>
+    <string name="startActivity_painter">Pędzel</string>
+    <string name="startActivity_paint">Pędzel</string>
+    <string name="painterViev_selectPainter_Toast">Najpierw kliknij na pędzel</string>
+    <string name="background_white">Biały</string>
+    <string name="background_blue">Niebieski</string>
+    <string name="background_red">Czerwony</string>
+    <string name="startActivity_backgroundDialog_title">Wybierz kolor tła:</string>
+    <string name="startActivity_style">Styl</string>
+    <string name="startActivity_menu_New">Nowy</string>
+    <string name="startActivity_menu_Save">Zapisz</string>
+    <string name="startActivity_menu_OpenGalery">Otwórz galerię</string>
+    <string name="startActivity_menu_Dialog_New_Title">Nowy obraz</string>
+    <string name="startActivity_menu_Dialog_New_Message">Czy utworzyć nowy obraz (utracisz dotychczasową pracę)?</string>
+    <string name="startActivity_menu_Dialog_Save_Title">Zapisz obraz</string>
+    <string name="startActivity_menu_Dialog_Save_Message">Czy zapisać obraz do galerii?</string>
+    <string name="startActivity_menu_failedSaveToBrowser_Toast">zapis nie powiódł się</string>
+    <string name="bd_Obsluga_failedToLoadID">Nie udało się pobrać ID!</string>
+    <string name="bd_Obsluga_failedToCreateFile">Nie udało się utworzyć pliku!</string>
+    <string name="startActivitybrowserOpenNotAvailable_Toast">Przeglądarka niedostępna</string>
+    <string name="browser_noMoreItem_Toast">Nie ma więcej elementów</string>
+    <string name="browser_menu_Next">Następny</string>
+    <string name="browser_menu_Previous">Poprzedni</string>
+    <string name="browser_menu_Delete">Usuń</string>
+    <string name="browser_menu_Send">Wyślij</string>
+    <string name="browser_menu_Back">Powrót</string>
+    <string name="browser_cannot_delete_Toast">Niestety - tego nie można usunąć</string>
+    <string name="browser_dialog_delete_title">Usuń</string>
+    <string name="browser_dialog_delete_message">Czy jesteś pewien?</string>
+    <string name="startActivity_menu_Exit">Wyjście</string>
+    <string name="startActivity_dialogExit_title">Wyjście</string>
+    <string name="startActivity_dialogExit_message">Czy jesteś pewien?</string>
+    <string name="dialog_Yes">Tak</string>
+    <string name="dialog_Cancel">Anuluj</string>
+    
+  
+</resources>

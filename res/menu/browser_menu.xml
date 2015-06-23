@@ -1,0 +1,41 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.wojtek.w_painter.MainActivity" >
+
+     
+    
+    <item
+        android:id="@+id/action_previous"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="@string/browser_menu_Previous"
+        android:icon="@drawable/previous" />
+    <item
+        android:id="@+id/action_next"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="@string/browser_menu_Next"
+        android:icon="@drawable/next"/>
+    
+    <item
+        android:id="@+id/action_delete"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="@string/browser_menu_Delete"
+        android:icon="@drawable/delete"/>
+    
+    <item
+        android:id="@+id/action_send"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="@string/browser_menu_Send"
+        android:icon="@drawable/send"/>
+    
+   <item
+        android:id="@+id/action_back"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="@string/browser_menu_Back"
+        android:icon="@drawable/back"/>
+
+</menu>
